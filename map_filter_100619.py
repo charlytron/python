@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# author: Mosh Hamadani
+# date: 11/15/2018
+# modified: 10/06/2019
 
 items = [
         ("Product1", 10),
